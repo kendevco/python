@@ -1,8 +1,8 @@
 import requests
 import json
 
-API_URL_LOCATIONS = "https://zlx31990.live.dynatrace.com/api/v1/synthetic/locations"
-API_KEY = "dt0c01.DF2ZFTMNGC4RLKAUBZPSBQCF.IG3WW2V7FQMLWFKYFX7CMC6EEHKFE6NVKUH5ZZ42MSAUMTIHYYIOAJBGXC77VBPA"
+API_URL_LOCATIONS = os.getenv('DYNATRACE_API_URL_LOCATIONS')
+API_KEY = os.getenv('DYNATRACE_API_KEY') 
 
 headers = {
     "Authorization": f"Api-Token {API_KEY}",
