@@ -1,0 +1,1225 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.030
+<v Kimberly Kitson>We're just waiting, you know, wanting to see the progress, they're the status update on the thumbnails that were a little bit of a of a problem last night.</v>
+
+00:00:13.600 --> 00:00:13.930
+<v Kenneth Courtney>Ohh.</v>
+
+00:00:13.940 --> 00:00:16.770
+<v Kenneth Courtney>Well, we're gonna have it.</v>
+
+00:00:16.780 --> 00:00:30.120
+<v Kenneth Courtney>Least until July 9th, to be able to rectify that because of the change freeze the the first available time that we'll be able to umm.</v>
+
+00:00:32.440 --> 00:00:35.580
+<v Kenneth Courtney>Perform any change again would be July the 9th.</v>
+
+00:00:37.980 --> 00:00:57.440
+<v Kenneth Courtney>And along those lines, with regard to like the particular issue with these icons, we would like to if if, if at all possible during these roughly 9 days, if we can perform dual data entry.</v>
+
+00:00:57.450 --> 00:01:13.790
+<v Kenneth Courtney>In other words, if you submit an article on the authentic BJC net site that you would also submit the same article onto the BJC net QA site, and that will have a oops that will have a couple of effects.</v>
+
+00:01:14.160 --> 00:01:36.030
+<v Kenneth Courtney>The main one is is that it would give you an opportunity to identify any other issues that we have an initially surfaced and and and to be quite honest, I don't think it was fair to anybody to just say, OK, we're gonna pull this and then we're just going to implement it and 48 hours, right?</v>
+
+00:01:36.040 --> 00:01:40.780
+<v Kenneth Courtney>So I don't think that that was really a reasonable expectation.</v>
+
+00:01:41.520 --> 00:01:44.090
+<v Kenneth Courtney>Umm, but we do need.</v>
+
+00:01:44.680 --> 00:01:47.800
+<v Kenneth Courtney>So there there are two competing factors.</v>
+
+00:01:47.810 --> 00:01:58.230
+<v Kenneth Courtney>The first factor is is obviously the timeliness of the data and the previous version of the QA site was pulled at the beginning of March.</v>
+
+00:01:58.240 --> 00:02:15.350
+<v Kenneth Courtney>From my understanding, best understanding the issue is is that it does take a considerable amount of work to upgrade the site from the version that we look at right here to the version here.</v>
+
+00:02:15.400 --> 00:02:29.540
+<v Kenneth Courtney>So again that that initial upgrade process was like essentially like upgrading the site, finding and fixing errors and it's and it's a very heuristic process.</v>
+
+00:02:29.550 --> 00:02:36.920
+<v Kenneth Courtney>So essentially you upgrade the site and whatever is broken you fix it and separately like on this main module right here.</v>
+
+00:02:37.300 --> 00:02:50.840
+<v Kenneth Courtney>This is of commercially available module which has been upgraded like roughly monthly since the version that's installed on the existing site as an example.</v>
+
+00:02:50.850 --> 00:03:06.300
+<v Kenneth Courtney>So it it's it's profound that it's able to upgrade all the way through that through like roughly 10 years of development efforts which you get as far as the exact issue with the icon.</v>
+
+00:03:06.570 --> 00:03:17.530
+<v Kenneth Courtney>I I you know we we will do our best to try to identify why these in particular.</v>
+
+00:03:17.540 --> 00:03:22.770
+<v Kenneth Courtney>Because if you look, these are wider than these.</v>
+
+00:03:22.780 --> 00:03:27.310
+<v Kenneth Courtney>And so this could be like a template option or something plain and simple.</v>
+
+00:03:27.320 --> 00:03:29.560
+<v Kenneth Courtney>It's gonna take some investigation.</v>
+
+00:03:30.520 --> 00:03:34.000
+<v Kenneth Courtney>Uh to really figure out what's going on there.</v>
+
+00:03:34.010 --> 00:03:36.780
+<v Kenneth Courtney>Why these are this big and these are this big.</v>
+
+00:03:38.400 --> 00:03:59.940
+<v Kenneth Courtney>So that being said, my initial question and hope that you will agree on is it again like say when you post a new article on BJC net that you also come over and post the exact same thing on to BJC net QA, right.</v>
+
+00:04:00.280 --> 00:04:07.330
+<v Kenneth Courtney>And that way we're able to keep all of your changes in line, which is a great benefit.</v>
+
+00:04:07.670 --> 00:04:17.910
+<v Kenneth Courtney>And then the second great benefit is, is that if there are any issues, they'll be surfaced during the course of that data entry.</v>
+
+00:04:18.620 --> 00:04:20.290
+<v Kenneth Courtney>Are there any questions or comments about that?</v>
+
+00:04:22.230 --> 00:04:29.820
+<v Robert Schmitz>No, I have been trying to post on both sites the current and the the QA site and I'm getting Allen.</v>
+
+00:04:29.830 --> 00:04:32.200
+<v Robert Schmitz>Who's gonna be taking over for me when I retire?</v>
+
+00:04:32.250 --> 00:04:39.790
+<v Robert Schmitz>I'm giving him some practice just strictly on the QA side since that'll be hopefully in place by the time I write.</v>
+
+00:04:40.050 --> 00:04:46.980
+<v Robert Schmitz>By the time I retire, so yeah, I've been trying to do both sides of just to get practice on both or on the new one, obviously.</v>
+
+00:04:48.550 --> 00:04:48.930
+<v Kenneth Courtney>Right.</v>
+
+00:04:48.970 --> 00:04:49.760
+<v Kenneth Courtney>So the main.</v>
+
+00:04:48.430 --> 00:04:50.120
+<v Kimberly Kitson>So what are the power?</v>
+
+00:04:50.180 --> 00:04:50.960
+<v Kimberly Kitson>Excuse me.</v>
+
+00:04:52.610 --> 00:04:52.790
+<v Robert Schmitz>Yeah.</v>
+
+00:04:51.150 --> 00:04:59.320
+<v Kimberly Kitson>Excuse me, Bob, when you go post to the QA site, what does that do with the thumbnails?</v>
+
+00:04:59.330 --> 00:05:01.410
+<v Kimberly Kitson>What size are the thumbnails because?</v>
+
+00:05:01.210 --> 00:05:02.860
+<v Robert Schmitz>It makes it, it makes them square.</v>
+
+00:05:06.040 --> 00:05:06.440
+<v Robert Schmitz>I'm look.</v>
+
+00:05:18.850 --> 00:05:19.170
+<v Robert Schmitz>Well.</v>
+
+00:05:05.770 --> 00:05:21.740
+<v Kimberly Kitson>So even though we're seeing some, a little more rectangular and some square, everything new you've been posting, they show up as square and so are you there for readjusting this photo size for the thumbnail?</v>
+
+00:05:23.540 --> 00:05:26.110
+<v Robert Schmitz>There's a one comment on that.</v>
+
+00:05:26.240 --> 00:05:29.330
+<v Robert Schmitz>I know KENS is a little different from what I'm seeing.</v>
+
+00:05:29.700 --> 00:05:33.330
+<v Robert Schmitz>I'm using Chrome and all the little thumbnails are square.</v>
+
+00:05:33.340 --> 00:05:38.110
+<v Robert Schmitz>None of them are half of them aren't horizontal like the usual thumbnails are.</v>
+
+00:05:38.120 --> 00:05:39.280
+<v Robert Schmitz>They're all square on mine.</v>
+
+00:05:47.810 --> 00:05:48.180
+<v Robert Schmitz>You're right.</v>
+
+00:05:48.170 --> 00:05:48.370
+<v Patty Johnson>That's.</v>
+
+00:05:48.190 --> 00:05:48.500
+<v Robert Schmitz>So there.</v>
+
+00:05:49.280 --> 00:05:49.660
+<v Kimberly Kitson>We're here.</v>
+
+00:05:50.810 --> 00:05:50.980
+<v Robert Schmitz>So.</v>
+
+00:05:49.400 --> 00:05:51.040
+<v Patty Johnson>Yeah, that's.</v>
+
+00:05:50.590 --> 00:05:56.360
+<v Kimberly Kitson>Ken, do you do you wanna Bob to share a screen to so that you can see what he's seeing?</v>
+
+00:05:57.210 --> 00:05:57.600
+<v Robert Schmitz>Yeah.</v>
+
+00:05:57.650 --> 00:05:58.420
+<v Robert Schmitz>I just shared it.</v>
+
+00:05:58.460 --> 00:05:59.260
+<v Robert Schmitz>Let me know when you see it.</v>
+
+00:06:00.020 --> 00:06:00.630
+<v Kimberly Kitson>It's visible.</v>
+
+00:06:01.940 --> 00:06:02.400
+<v Robert Schmitz>Yeah.</v>
+
+00:06:02.450 --> 00:06:14.670
+<v Robert Schmitz>See, here's the top ones and as I Scroll down, they're all square, whereas I know on KENS, I think here these ended up get going fullest the the right, the right width basically.</v>
+
+00:06:14.940 --> 00:06:21.350
+<v Robert Schmitz>But on mine, it's all they're all squares regardless, and there's new new ones too.</v>
+
+00:06:21.360 --> 00:06:26.500
+<v Robert Schmitz>I just posted uh Richard Note today and it's a.</v>
+
+00:06:28.930 --> 00:06:29.750
+<v Robert Schmitz>Square, as you can see.</v>
+
+00:06:31.220 --> 00:06:31.830
+<v Kenneth Courtney>I will.</v>
+
+00:06:31.920 --> 00:06:42.970
+<v Kenneth Courtney>I will open a support incident with easy DNN solutions for this and hopefully they can provide us some direction on checks.</v>
+
+00:06:45.080 --> 00:06:58.730
+<v Robert Schmitz>I still find it odd that before you guys were working on it yesterday, Alan and I were playing around, you know, loading things on here and for the longest time, they were the the correct width.</v>
+
+00:06:58.800 --> 00:07:01.880
+<v Robert Schmitz>But then it seemed like as of yesterday, they all turned out to be squares.</v>
+
+00:07:03.860 --> 00:07:04.630
+<v Robert Schmitz>So I don't know.</v>
+
+00:07:07.520 --> 00:07:08.850
+<v Robert Schmitz>I don't know what the cause of that would be.</v>
+
+00:07:08.340 --> 00:07:11.290
+<v Kenneth Courtney>Like I said there, there's probably a template for it.</v>
+
+00:07:12.280 --> 00:07:27.260
+<v Kenneth Courtney>I just as far as this particular module goes, this is the only site where we use this particular rotator module from easy DNN solutions and so.</v>
+
+00:07:27.270 --> 00:07:28.220
+<v Kenneth Courtney>But I have.</v>
+
+00:07:28.230 --> 00:07:40.020
+<v Kenneth Courtney>I have uh on numerous occasions some supported other support request to them and for the most part I've gotten satisfactory responses.</v>
+
+00:07:40.030 --> 00:07:41.360
+<v Kenneth Courtney>And so that's really all I can do.</v>
+
+00:07:42.280 --> 00:07:56.860
+<v Kenneth Courtney>Uh, and and you know, obviously we can get down into it, but because it is a commercial module we we don't have the source, but these are like they have a very I wouldn't call it sophisticated.</v>
+
+00:07:57.170 --> 00:08:07.600
+<v Kenneth Courtney>They have a very comprehensive templating system, which is a borderline incomprehensible to me, but I'll I'll just leave it at that.</v>
+
+00:08:07.610 --> 00:08:35.560
+<v Kenneth Courtney>We have this as an item that we need to address prior to sign off, and we understand that and we will make it so umm, but the the main purpose that I would or the main direction that I was hoping to agree on today with everybody was to keep this version of the database.</v>
+
+00:08:35.640 --> 00:08:52.090
+<v Kenneth Courtney>This version of the site and the database and perform dual entry on both the the QA site which is the recent copy on Tuesday of this week along with the legacy site.</v>
+
+00:08:52.180 --> 00:08:59.140
+<v Kenneth Courtney>And then we keep them like manually synced as far as any articles or anything else.</v>
+
+00:09:00.200 --> 00:09:03.030
+<v Kenneth Courtney>And once we have.</v>
+
+00:09:03.990 --> 00:09:14.220
+<v Kenneth Courtney>Fixed a the square boxes and B any other new issues which may have arisen which we have not yet detected at that point.</v>
+
+00:09:14.570 --> 00:09:18.900
+<v Kenneth Courtney>We plan on the earliest available time, which is July the 9th.</v>
+
+00:09:19.390 --> 00:09:21.290
+<v Kenneth Courtney>Is that agreeable?</v>
+
+00:09:25.680 --> 00:09:30.120
+<v Kimberly Kitson>I guess my question remains if if Bob and Alan are entering.</v>
+
+00:09:32.900 --> 00:09:38.060
+<v Kimberly Kitson>You know, photos in the banner section of the new site.</v>
+
+00:09:39.440 --> 00:09:40.080
+<v Kimberly Kitson>Should they be?</v>
+
+00:09:45.530 --> 00:09:46.380
+<v Kenneth Courtney>Exactly.</v>
+
+00:09:46.430 --> 00:09:46.930
+<v Kenneth Courtney>Well, it's.</v>
+
+00:09:41.360 --> 00:09:47.060
+<v Kimberly Kitson>I mean, what is that gonna look like when we go back the other way?</v>
+
+00:09:49.050 --> 00:09:49.750
+<v Kimberly Kitson>I'm sorry, what?</v>
+
+00:09:49.580 --> 00:09:53.430
+<v Kenneth Courtney>Well, they're radically it should look exactly the same.</v>
+
+00:09:53.440 --> 00:10:13.450
+<v Kenneth Courtney>I mean, there are minor uh and and we are working to perfect and eliminate the minor differences, but there there is roughly 11 years of technology between the version on the right and the version on the left.</v>
+
+00:10:13.640 --> 00:10:14.330
+<v Kenneth Courtney>OK.</v>
+
+00:10:13.950 --> 00:10:16.720
+<v Kimberly Kitson>Yeah, we, we get that we get that.</v>
+
+00:10:15.150 --> 00:10:17.440
+<v Kenneth Courtney>And so and and.</v>
+
+00:10:16.730 --> 00:10:21.780
+<v Kimberly Kitson>I'm looking at the future because Bob and Alan are loading things.</v>
+
+00:10:22.250 --> 00:10:25.960
+<v Kimberly Kitson>And are they supposed to be loading square images?</v>
+
+00:10:28.170 --> 00:10:28.330
+<v Kenneth Courtney>No.</v>
+
+00:10:25.970 --> 00:10:29.330
+<v Kimberly Kitson>Because that affects how they size the photos.</v>
+
+00:10:30.840 --> 00:10:31.530
+<v Kenneth Courtney>OK.</v>
+
+00:10:31.580 --> 00:10:44.900
+<v Kenneth Courtney>So with regard to the images and the thumbnails that you see, my best guess and I and I'm not positive, but I'm pretty sure it essentially scale.</v>
+
+00:10:44.910 --> 00:10:59.080
+<v Kenneth Courtney>It scales that box with with CSS that says is this big in separately inside the image can either be cropped or scaled to display and it does.</v>
+
+00:10:59.090 --> 00:11:08.920
+<v Kenneth Courtney>And as far as your upload of the image, it very much helps to upload in the aspect ratio that you wish to display it in.</v>
+
+00:11:08.930 --> 00:11:46.240
+<v Kenneth Courtney>Because of that scale versus crowd, if you if you specify scale as the option, then if the image that is being scaled is not the same aspect ratio, it will look either scrunched down or extend it out and it it won't in for like small differences, it really won't be evident, but from your perspective keep on uploading the same exact aspect ratio that you have been right and then we will work to make that box conform to your expectations.</v>
+
+00:11:46.250 --> 00:11:52.820
+<v Kenneth Courtney>But the point I'm making is is that's all kind of programmed in and handled by the software, right?</v>
+
+00:11:52.890 --> 00:12:03.510
+<v Kenneth Courtney>It does either the scaling or the the other option that I said that I've just wiped the.</v>
+
+00:12:03.570 --> 00:12:17.300
+<v Kenneth Courtney>The point is, is that's that's a presentation option, but the main thing is when you upload your images by all means if at all possible, continue using your preferred aspect ratio.</v>
+
+00:12:18.350 --> 00:12:19.760
+<v Kenneth Courtney>Any questions about that?</v>
+
+00:12:19.770 --> 00:12:21.430
+<v Kenneth Courtney>I think I repeated myself once already.</v>
+
+00:12:22.400 --> 00:12:26.580
+<v Kimberly Kitson>I think what I'm not expressing very well kind of is that.</v>
+
+00:12:29.220 --> 00:12:38.940
+<v Kimberly Kitson>If what I and it's very difficult, we didn't this just happened out of the blue a day ago.</v>
+
+00:12:39.550 --> 00:12:43.220
+<v Kimberly Kitson>So if Bob and Ellen Reid.</v>
+
+00:12:45.150 --> 00:12:51.950
+<v Kimberly Kitson>Do the the ratio of what they're loading and then when we go live, it goes bonkers again.</v>
+
+00:12:53.650 --> 00:12:59.270
+<v Kimberly Kitson>They've wasted their time and we don't have what we want.</v>
+
+00:12:59.660 --> 00:13:04.370
+<v Kimberly Kitson>When this site that is currently QA goes live.</v>
+
+00:13:07.970 --> 00:13:09.590
+<v Kenneth Courtney>Well, uh, let me reiterate.</v>
+
+00:13:10.870 --> 00:13:27.020
+<v Kenneth Courtney>Continue uploading the images in the aspect ratio that you have been accustomed to, and I've talked to Bob on several occasions and I believe that he is using his standard aspect ratio for his images.</v>
+
+00:13:27.360 --> 00:13:28.260
+<v Kenneth Courtney>What I'm saying?</v>
+
+00:13:28.270 --> 00:13:44.910
+<v Kenneth Courtney>Is is that there is likely some CSS, or in other words, there's some technical switch that we can flip which will correct the presentation of these from being squares to being the aspect ratio below.</v>
+
+00:13:45.340 --> 00:13:47.480
+<v Kenneth Courtney>I'm saying that we will handle it.</v>
+
+00:13:47.530 --> 00:13:58.890
+<v Kenneth Courtney>What I'm I'm asking you to do is accept that we will research and look into this, but continue posting identically under the assumption that we will fix it.</v>
+
+00:13:58.940 --> 00:13:59.670
+<v Kenneth Courtney>OK.</v>
+
+00:13:59.920 --> 00:14:00.340
+<v Kimberly Kitson>OK.</v>
+
+00:13:59.760 --> 00:14:00.730
+<v Kenneth Courtney>That's all we're asking.</v>
+
+00:14:02.950 --> 00:14:04.070
+<v Kimberly Kitson>OK, understood.</v>
+
+00:14:05.670 --> 00:14:07.200
+<v Kimberly Kitson>And that's what you've been doing, Bob.</v>
+
+00:14:10.260 --> 00:14:10.580
+<v Kimberly Kitson>OK.</v>
+
+00:14:08.460 --> 00:14:14.050
+<v Robert Schmitz>Uh, yeah, I I do wanna show you this, though, and I've showed Patty this before.</v>
+
+00:14:14.480 --> 00:14:20.390
+<v Robert Schmitz>This with here is 720 by 380 which is the size far our banners.</v>
+
+00:14:20.400 --> 00:14:23.390
+<v Robert Schmitz>These banners are 7720 pixels by 380.</v>
+
+00:14:23.910 --> 00:14:33.090
+<v Robert Schmitz>The reason I had these these blue lines, specifically the left and right ones, are because when I got to show you the this guy here.</v>
+
+00:14:34.000 --> 00:14:37.210
+<v Robert Schmitz>Umm, let me just open this up.</v>
+
+00:14:41.280 --> 00:14:46.600
+<v Robert Schmitz>OK, if you notice, here's the banner that looks like.</v>
+
+00:14:50.290 --> 00:14:54.580
+<v Robert Schmitz>And OK notice when I just notice the left and right side here.</v>
+
+00:14:54.590 --> 00:14:56.700
+<v Robert Schmitz>OK, go back to home now.</v>
+
+00:15:02.490 --> 00:15:03.880
+<v Robert Schmitz>And I can't find it where to go.</v>
+
+00:15:05.870 --> 00:15:06.320
+<v Robert Schmitz>Geez.</v>
+
+00:15:06.000 --> 00:15:06.870
+<v Patty Johnson>You'll find it.</v>
+
+00:15:07.190 --> 00:15:07.760
+<v Patty Johnson>It's there.</v>
+
+00:15:08.090 --> 00:15:12.260
+<v Robert Schmitz>Well, the reason I'm saying, OK, here's a good example on bridges note.</v>
+
+00:15:12.270 --> 00:15:14.280
+<v Robert Schmitz>OK, notice the left and right side.</v>
+
+00:15:14.290 --> 00:15:15.180
+<v Robert Schmitz>You're here's the right side.</v>
+
+00:15:15.190 --> 00:15:15.900
+<v Robert Schmitz>Here's the left side.</v>
+
+00:15:15.910 --> 00:15:17.360
+<v Robert Schmitz>See all that excess blue?</v>
+
+00:15:17.590 --> 00:15:22.100
+<v Robert Schmitz>If you notice how in here the left side and the right side of the blue has been cropped off.</v>
+
+00:15:22.110 --> 00:15:27.840
+<v Robert Schmitz>OK, this side here and this side here blinds up on my Photoshop file.</v>
+
+00:15:27.850 --> 00:15:28.690
+<v Robert Schmitz>These guys here.</v>
+
+00:15:28.700 --> 00:15:31.680
+<v Robert Schmitz>So whenever I do a banner, I could open up a banner.</v>
+
+00:15:31.690 --> 00:15:32.770
+<v Robert Schmitz>Here I'll show you.</v>
+
+00:15:35.240 --> 00:15:35.600
+<v Robert Schmitz>Ah.</v>
+
+00:15:39.770 --> 00:15:40.680
+<v Robert Schmitz>We'll get to hear.</v>
+
+00:15:40.690 --> 00:15:41.160
+<v Robert Schmitz>Hold on.</v>
+
+00:15:41.170 --> 00:15:41.770
+<v Robert Schmitz>Hold that thought.</v>
+
+00:15:50.390 --> 00:15:52.680
+<v Robert Schmitz>OK so here is my banner.</v>
+
+00:15:57.590 --> 00:15:57.860
+<v Robert Schmitz>Come on.</v>
+
+00:16:01.380 --> 00:16:01.640
+<v Robert Schmitz>OK.</v>
+
+00:16:04.520 --> 00:16:05.490
+<v Robert Schmitz>I'm not compel.</v>
+
+00:16:05.540 --> 00:16:06.030
+<v Robert Schmitz>Hold on.</v>
+
+00:16:06.110 --> 00:16:06.790
+<v Robert Schmitz>Let me copy this.</v>
+
+00:16:09.150 --> 00:16:10.350
+<v Robert Schmitz>And go back to my banner.</v>
+
+00:16:10.360 --> 00:16:15.470
+<v Robert Schmitz>This is how I do my banners all the time, so I'll take a photo and I stick it in there.</v>
+
+00:16:15.480 --> 00:16:20.110
+<v Robert Schmitz>Usually they're larger, doesn't matter, but I crap it down to the 720 by 380 sizes, which is this.</v>
+
+00:16:20.940 --> 00:16:27.820
+<v Robert Schmitz>So now if you notice, watch a little girl here and the guy over here when I posted this.</v>
+
+00:16:29.520 --> 00:16:35.370
+<v Robert Schmitz>You probably can't see, but see how it's been cropped off on you can't see the guy on the right side here.</v>
+
+00:16:35.380 --> 00:16:50.240
+<v Robert Schmitz>You can't see the little girl on the left side, so for some reason I've always had to make sure that if I have something that I want to be able to show inside the thumbnail, it all that information is inside here.</v>
+
+00:16:51.660 --> 00:16:52.390
+<v Patty Johnson>Inside the lines.</v>
+
+00:16:53.660 --> 00:16:53.870
+<v Kimberly Kitson>Yeah.</v>
+
+00:16:52.080 --> 00:16:54.020
+<v Robert Schmitz>But inside this?</v>
+
+00:16:54.030 --> 00:16:55.900
+<v Robert Schmitz>Yeah, that makes sense.</v>
+
+00:16:56.810 --> 00:16:57.030
+<v Kimberly Kitson>Yep.</v>
+
+00:16:58.640 --> 00:16:58.880
+<v Kenneth Courtney>I.</v>
+
+00:16:57.060 --> 00:16:59.110
+<v Robert Schmitz>So it it's been that way for a long time.</v>
+
+00:16:59.120 --> 00:17:02.960
+<v Robert Schmitz>So yeah, that's my little slideshow.</v>
+
+00:17:15.550 --> 00:17:15.730
+<v Robert Schmitz>Yeah.</v>
+
+00:17:02.290 --> 00:17:17.920
+<v Kenneth Courtney>I think I think with something like this, like particularly with this, if if it's like a known quantity that you work within and you're happy with it or except it is a better word, then what?</v>
+
+00:17:17.930 --> 00:17:26.900
+<v Kenneth Courtney>What I am saying is that I agree with you that I completely understand exactly what you're depicting or talking about.</v>
+
+00:17:26.910 --> 00:17:28.440
+<v Kenneth Courtney>Namely, these are squares.</v>
+
+00:17:28.450 --> 00:17:33.880
+<v Kenneth Courtney>There is information that is being truncated which needs to be displayed for a very good reason.</v>
+
+00:17:36.960 --> 00:17:57.640
+<v Kenneth Courtney>The main thing that I wanna convey and hopefully with enough confidence that it instills confidence in you is, is that continue as normal and we accept that there is indeed an issue with the display of these icons and more than likely we will get to the bottom of it.</v>
+
+00:17:58.030 --> 00:18:15.870
+<v Kenneth Courtney>And when I say more, I'm like 99%, OK, so we will open a ticket with easy DNN solutions, but the main thing is our primary goal was to make this as seamless as possible for you.</v>
+
+00:18:15.920 --> 00:18:19.590
+<v Kenneth Courtney>So we do not want you to change anything that you're doing.</v>
+
+00:18:19.910 --> 00:18:29.820
+<v Kenneth Courtney>We want to make it work the way you expect it to, and right now this is definitely a head scratcher for me.</v>
+
+00:18:30.730 --> 00:19:00.370
+<v Kenneth Courtney>But uh, you know, with enough cycles applied to it, it will be thoroughly understood and resolved the main again overarching goal that I have is to preserve the work that we already have into this upgraded version and come to an agreement that we can perform dual data entry on the two systems until the legacy system is deactivated.</v>
+
+00:19:01.140 --> 00:19:01.520
+<v Kenneth Courtney>Umm.</v>
+
+00:19:01.700 --> 00:19:12.410
+<v Kenneth Courtney>And we will do everything in our power and ability to ensure that those icons conform to your expectations.</v>
+
+00:19:13.850 --> 00:19:14.370
+<v Robert Schmitz>Sounds good.</v>
+
+00:19:15.280 --> 00:19:15.480
+<v Patty Johnson>Yep.</v>
+
+00:19:16.360 --> 00:19:16.790
+<v Kimberly Kitson>Yeah.</v>
+
+00:19:16.800 --> 00:19:41.690
+<v Kimberly Kitson>When and and you expect you hope the goal is that that is completed by July 9th, and if it is not, then you will come back with a plan that will, you know, address this whole double posting thing that we thought you know was going to be a pretty short period of time, like 2 days.</v>
+
+00:19:52.930 --> 00:19:53.210
+<v Kenneth Courtney>Right.</v>
+
+00:19:42.200 --> 00:19:54.690
+<v Kimberly Kitson>Now it's turning into 10 days minus the weekend because we don't normally post over weekends, but I just wanna make sure that this does not get too far out of the box.</v>
+
+00:19:54.390 --> 00:20:00.370
+<v Kenneth Courtney>Well, right, obviously if it goes past that, then we'll have to look at other options.</v>
+
+00:20:00.380 --> 00:20:05.660
+<v Kenneth Courtney>But our main goal is is that there is a substantial amount of.</v>
+
+00:20:07.950 --> 00:20:09.270
+<v Kenneth Courtney>Effort involved with.</v>
+
+00:20:09.820 --> 00:20:39.960
+<v Kenneth Courtney>Upgrading the site and there are on occasions in Inter in iterations of this upgrade process where things don't work as smoothly as possible as others and there are there at that point you have to go back to a checkpoint if you have one and and then resume the process from there and and there are and and there are more sophisticated tools than the last time.</v>
+
+00:20:40.010 --> 00:20:54.120
+<v Kenneth Courtney>I personally tried to upgrade this site when I was working with Robert Bob on the issue related to the file chooser in the HTML editor, namely on the BJC scene.</v>
+
+00:20:54.130 --> 00:21:07.220
+<v Kenneth Courtney>That site, when you try to browse the files, it literally loads all 70,000 files in the file system every single time you click on one of those tree notes in the in that file chooser.</v>
+
+00:21:07.550 --> 00:21:22.080
+<v Kenneth Courtney>And so at that time, I have personally tried to upgrade the site numerous times and I mean I I probably spent at least 60 or 80 hours on this to be quite honest, it was substantial.</v>
+
+00:21:22.550 --> 00:21:38.360
+<v Kenneth Courtney>And in the interim, my new associate, Sandeep was able to work through those particular issues, which were as which just stopped me completely in my tracks at that time.</v>
+
+00:21:40.510 --> 00:21:56.020
+<v Kenneth Courtney>What I can say again is is our goal is to communicate and more importantly by performing the dual entry, hopefully surfacing any other potential issues that we can resolve prior to pushing the site live.</v>
+
+00:21:56.030 --> 00:22:02.680
+<v Kenneth Courtney>So it gives us a really good hands on test that we really need to perform.</v>
+
+00:22:02.730 --> 00:22:13.100
+<v Kenneth Courtney>And so this does give us an opportunity where we didn't have it before, which is mainly identifying any of these other kind of problems that may arise.</v>
+
+00:22:31.780 --> 00:22:32.000
+<v Kenneth Courtney>Well.</v>
+
+00:22:14.780 --> 00:22:32.480
+<v Kimberly Kitson>And one other thing, you know, obviously the opinion poll is different and please remind me were we told the pie chart is no longer available and what is in its place?</v>
+
+00:22:34.640 --> 00:22:41.170
+<v Kenneth Courtney>So what happens the way the pie chart works now on the new site and and So what?</v>
+
+00:22:41.180 --> 00:22:56.310
+<v Kenneth Courtney>Just essentially the the the opinion poll uses a core DNN survey module which had been pushed off to the community in a good way and the community continued developing the core survey module.</v>
+
+00:22:57.140 --> 00:23:12.650
+<v Kenneth Courtney>It underwent a significant change, including this, which was essentially an an enhancement of the module by the Community, and also note that the Community removed the pie chart control from the module.</v>
+
+00:23:12.840 --> 00:23:25.770
+<v Kenneth Courtney>So right now, if you're signed out of the site, so if you could like open a new site, Bob in a private window to the same and and yeah, in a private Incognito 3 dots.</v>
+
+00:23:32.170 --> 00:23:33.550
+<v Kenneth Courtney>And then just submit appointment.</v>
+
+00:23:44.400 --> 00:23:45.820
+<v Kenneth Courtney>Vigilant guard dogs.</v>
+
+00:23:56.200 --> 00:23:58.120
+<v Kenneth Courtney>Dot sign in don't sign in.</v>
+
+00:24:00.000 --> 00:24:00.330
+<v Robert Schmitz>Ohh.</v>
+
+00:23:58.130 --> 00:24:00.420
+<v Kenneth Courtney>Cancel, cancel, cancel.</v>
+
+00:24:00.890 --> 00:24:01.440
+<v Kenneth Courtney>Yeah.</v>
+
+00:24:04.180 --> 00:24:04.330
+<v Robert Schmitz>Umm.</v>
+
+00:24:01.510 --> 00:24:05.460
+<v Kenneth Courtney>Just go back to the home page right and submit a poll.</v>
+
+00:24:05.750 --> 00:24:11.870
+<v Kenneth Courtney>Going to the poll, going to festivals, seeing Illenium in concert, that sort of thing.</v>
+
+00:24:15.270 --> 00:24:17.760
+<v Kenneth Courtney>Who's your favorite EDM artist? Ohh.</v>
+
+00:24:21.610 --> 00:24:28.440
+<v Kenneth Courtney>OK, so now you submitted the poll and instead of displaying, you've already submitted the surveyor something.</v>
+
+00:24:29.150 --> 00:24:29.740
+<v Kenneth Courtney>Sorry.</v>
+
+00:24:30.010 --> 00:24:30.860
+<v Kenneth Courtney>Yeah, I can't stop.</v>
+
+00:24:40.410 --> 00:24:40.790
+<v Robert Schmitz>So there.</v>
+
+00:24:42.050 --> 00:24:45.110
+<v Kimberly Kitson>I think you just had to go unmute for some background noise.</v>
+
+00:24:44.150 --> 00:24:46.750
+<v Robert Schmitz>So yeah, his dog, I think.</v>
+
+00:24:47.770 --> 00:24:48.050
+<v Kimberly Kitson>Yeah.</v>
+
+00:24:49.870 --> 00:24:50.590
+<v Kimberly Kitson>So I guess my.</v>
+
+00:24:50.160 --> 00:24:51.490
+<v Kenneth Courtney>I have three dogs.</v>
+
+00:24:52.060 --> 00:24:52.440
+<v Robert Schmitz>We're done.</v>
+
+00:24:52.330 --> 00:24:52.460
+<v Patty Johnson>Yeah.</v>
+
+00:24:51.840 --> 00:24:56.810
+<v Kenneth Courtney>Ohh so I have I have a imperial Shih Tzu.</v>
+
+00:24:57.040 --> 00:24:58.430
+<v Kenneth Courtney>A Beagle basset terrier.</v>
+
+00:24:58.440 --> 00:24:59.380
+<v Kenneth Courtney>And it doesn't matter.</v>
+
+00:24:59.390 --> 00:25:00.600
+<v Kenneth Courtney>And British Staffordshire terrier.</v>
+
+00:25:02.640 --> 00:25:04.890
+<v Kenneth Courtney>But So what happens now?</v>
+
+00:25:04.900 --> 00:25:11.190
+<v Kenneth Courtney>The new behavior is essentially, if you're an anonymous user or you're a user who only has permission to submit surveys.</v>
+
+00:25:11.820 --> 00:25:22.670
+<v Kenneth Courtney>Once you've submitted that survey, it will display the Pi control and then when you click on view results it takes you to that extended view page and when you click on View Pass poll results.</v>
+
+00:25:22.680 --> 00:25:27.190
+<v Kenneth Courtney>So it effectively works the same, but it gives you a little.</v>
+
+00:25:27.200 --> 00:25:47.150
+<v Kenneth Courtney>It gives you this added functionality and I and honestly stripping that out would have like kind of changed the whole flow path internally and and you know this is honestly the first feedback and and for and only because of the lack of talking about it sooner.</v>
+
+00:25:48.040 --> 00:26:06.160
+<v Kenneth Courtney>But the main thing is is that for all intents and purposes, the module works the same as it did, but now it it, but it also has an enhancement where it prevents multiple posts from the same person in the same browser, so they could open a new private window.</v>
+
+00:26:04.330 --> 00:26:07.610
+<v Kimberly Kitson>So but if you. Yeah.</v>
+
+00:26:07.650 --> 00:26:08.050
+<v Kimberly Kitson>OK.</v>
+
+00:26:08.440 --> 00:26:10.730
+<v Kimberly Kitson>I'm sorry they could open a new private window. What?</v>
+
+00:26:14.150 --> 00:26:19.560
+<v Kenneth Courtney>Somebody could have effectively submit multiple results by opening a new private window, but that's the only way.</v>
+
+00:26:20.300 --> 00:26:22.550
+<v Robert Schmitz>Which is probably why we're getting this all the time.</v>
+
+00:26:30.370 --> 00:26:31.970
+<v Kimberly Kitson>Where it's all perfectly the same.</v>
+
+00:26:22.560 --> 00:26:32.770
+<v Robert Schmitz>If you notice some bozos been stuffing the ballot box, we we've been getting that last couple months now for somebody who's a big. Ohh yeah.</v>
+
+00:26:32.780 --> 00:26:34.800
+<v Robert Schmitz>Yeah, somebody wants to make it perfect pie chart.</v>
+
+00:26:34.860 --> 00:26:37.070
+<v Robert Schmitz>This has been happening too frequently.</v>
+
+00:26:37.080 --> 00:26:40.730
+<v Robert Schmitz>All of a sudden, so some **** *** out there is sorry my.</v>
+
+00:26:42.170 --> 00:26:51.080
+<v Kimberly Kitson>So if you haven't completed the poll, all you see are the questions, and then once you vote and submit the poll, then you can view the pie chart.</v>
+
+00:26:52.740 --> 00:26:53.220
+<v Kenneth Courtney>Right.</v>
+
+00:26:53.280 --> 00:26:54.380
+<v Kenneth Courtney>And and so this.</v>
+
+00:26:52.400 --> 00:26:55.910
+<v Kimberly Kitson>That's what it looked like before you OK?</v>
+
+00:26:56.920 --> 00:26:59.710
+<v Kenneth Courtney>Now that functionality did not exist previously.</v>
+
+00:26:59.720 --> 00:27:08.650
+<v Kenneth Courtney>Currently somebody can resubmit poll result after poll result on that I think and that is how that was happening.</v>
+
+00:27:08.700 --> 00:27:12.930
+<v Kenneth Courtney>I'm I'm not positive about that, but I'm pretty sure that this is new behavior.</v>
+
+00:27:13.320 --> 00:27:21.930
+<v Kenneth Courtney>Once they, once the cookie is set, this reads the cookie and if the cookies there then it puts in the pie chart otherwise it puts in the other thing.</v>
+
+00:27:23.040 --> 00:27:43.330
+<v Kenneth Courtney>But for all intents and purposes, it does work the same, but it does have the extra page which I felt was risky to try to pull that out, but we have, for all intents and purposes, matched the display of the original survey module.</v>
+
+00:27:50.040 --> 00:27:55.580
+<v Kimberly Kitson>Great and and added the took away the ability to stuff the box, so thank you.</v>
+
+00:27:56.430 --> 00:27:56.570
+<v Patty Johnson>Yeah.</v>
+
+00:27:58.030 --> 00:28:04.230
+<v Kenneth Courtney>Potentially now there are other ways to make that a lot more solid, but I don't just with other.</v>
+
+00:28:05.420 --> 00:28:15.780
+<v Kenneth Courtney>They're used to be integrated Active Directory authentication with this site, and it no longer exists and it has an existed for at least three or three years.</v>
+
+00:28:17.820 --> 00:28:32.460
+<v Kenneth Courtney>It would technically be possible to incorporate single sign on into this site and I'm just floating that, but it is a capability of .net nuke and it is used on COVID-19 and also on positioningforthefuture.bjc.org.</v>
+
+00:28:32.470 --> 00:28:45.280
+<v Kenneth Courtney>Dot bjc.org so it is within our capability to integrate single sign on, but I'm surmising that there was probably some issue with it at that .3 years ago where they decided to.</v>
+
+00:28:46.840 --> 00:28:49.840
+<v Kenneth Courtney>Exclude that from the features of the site.</v>
+
+00:28:50.970 --> 00:28:56.620
+<v Robert Schmitz>How would that look as far as difference in regards to, you would have to sign on.</v>
+
+00:28:58.230 --> 00:28:59.160
+<v Robert Schmitz>Whoops, where to go?</v>
+
+00:28:59.210 --> 00:28:59.670
+<v Robert Schmitz>Here it is.</v>
+
+00:29:00.120 --> 00:29:01.880
+<v Kenneth Courtney>Just go to COVID-19.</v>
+
+00:29:01.890 --> 00:29:03.770
+<v Kenneth Courtney>Bjc.org, that's what it would look like.</v>
+
+00:29:05.830 --> 00:29:06.510
+<v Robert Schmitz>COVID-19.</v>
+
+00:29:07.930 --> 00:29:08.130
+<v Kenneth Courtney>Yeah.</v>
+
+00:29:09.250 --> 00:29:09.830
+<v Robert Schmitz>OK.</v>
+
+00:29:12.010 --> 00:29:14.910
+<v Kenneth Courtney>Sort of like that, but you just click on the login button.</v>
+
+00:29:16.810 --> 00:29:17.170
+<v Robert Schmitz>OK.</v>
+
+00:29:21.970 --> 00:29:22.170
+<v Robert Schmitz>Yeah.</v>
+
+00:29:19.010 --> 00:29:23.030
+<v Kenneth Courtney>And this takes you to your your multifactor authentication.</v>
+
+00:29:24.780 --> 00:29:25.870
+<v Robert Schmitz>Well, that might be a way to go.</v>
+
+00:29:27.410 --> 00:29:31.900
+<v Robert Schmitz>Well, with that, still with their eliminated multiple logins.</v>
+
+00:29:25.220 --> 00:30:06.540
+<v Kenneth Courtney>It works it, but that would that would make every single user not anonymous though and among other things that would give you a significantly more metrics to like learn about your users and learn about everything but it and and perhaps I'm just floating that that the all users were previously authenticated using that active direct well using an integration with Active Directory and I don't know exactly which one but I do know that if that were ever a desire that would be something that could be facilitated.</v>
+
+00:30:07.490 --> 00:30:16.380
+<v Robert Schmitz>And from what I'm understanding, once somebody logs into that thing and puts their their whole answer in, they cannot do it again.</v>
+
+00:30:16.440 --> 00:30:21.330
+<v Robert Schmitz>Or can they just go back and just keep A3 uh, logging in?</v>
+
+00:30:23.700 --> 00:30:29.270
+<v Kenneth Courtney>Uh, once that were enabled, it would not and and you had configured this accordingly.</v>
+
+00:30:29.280 --> 00:30:38.810
+<v Kenneth Courtney>In other words, in order to submit a poll result, you have to be logged in, and so one of the there would be a way to enable continued anonymous access.</v>
+
+00:30:42.630 --> 00:30:42.820
+<v Robert Schmitz>Yeah.</v>
+
+00:30:42.870 --> 00:30:46.510
+<v Kenneth Courtney>So that is something food for thought.</v>
+
+00:30:42.880 --> 00:30:49.190
+<v Robert Schmitz>Yeah, well, we'll see how this one goes.</v>
+
+00:30:49.200 --> 00:30:49.690
+<v Robert Schmitz>I'm sure.</v>
+
+00:30:49.700 --> 00:30:52.330
+<v Robert Schmitz>Whoever whatever clown this is, who's doing this?</v>
+
+00:30:52.340 --> 00:30:58.970
+<v Robert Schmitz>If he starts doing it again or she maybe we'll we'll go down that Ave and come up with the login process.</v>
+
+00:31:00.940 --> 00:31:11.960
+<v Kenneth Courtney>And and one thing that I will just have to agree with you that this is incredibly perplexing and because now we do have control over the module and.</v>
+
+00:31:14.860 --> 00:31:30.730
+<v Kenneth Courtney>We could theoretically add and I have to investigate if there's anything that I can get from the user session that would enable us to be able to determine one from the other, and if we can then we could get some logging metrics.</v>
+
+00:31:30.740 --> 00:31:39.020
+<v Kenneth Courtney>Because, yeah, this is particularly pernicious and as far as I'm concerned, it's just it's just wrong on every level.</v>
+
+00:31:39.890 --> 00:31:41.020
+<v Robert Schmitz>Yeah, it'd be nice if.</v>
+
+00:31:39.030 --> 00:31:41.090
+<v Kenneth Courtney>So you know.</v>
+
+00:31:41.030 --> 00:31:43.480
+<v Robert Schmitz>Uh, it'd be nice if you can log in.</v>
+
+00:31:43.740 --> 00:31:45.320
+<v Robert Schmitz>This would be a perfect world for me.</v>
+
+00:31:45.330 --> 00:32:00.590
+<v Robert Schmitz>You wanna do your poll so you log in and you put in your credentials, you get the little question and the answers you select your answer, you hit submit and from then on for that single pole there there's no other times you can get on there and vote.</v>
+
+00:32:01.660 --> 00:32:03.850
+<v Robert Schmitz>That would be the the dream of mine.</v>
+
+00:32:07.180 --> 00:32:19.920
+<v Kenneth Courtney>Well, there is a way to make it happen, but again, I'm not within this particular change, but you know it's it's things that we have done for other sites within the ecosystem.</v>
+
+00:32:20.540 --> 00:32:21.230
+<v Robert Schmitz>Yeah.</v>
+
+00:32:21.280 --> 00:32:23.170
+<v Robert Schmitz>And I'm not limited to a pie chart.</v>
+
+00:32:23.180 --> 00:32:24.990
+<v Robert Schmitz>I mean it could be any type of chart.</v>
+
+00:32:25.060 --> 00:32:30.400
+<v Robert Schmitz>You know, I I get on MSN a lot and they have charts all the time and poles.</v>
+
+00:32:39.850 --> 00:32:40.300
+<v Kenneth Courtney>Right, like.</v>
+
+00:32:31.230 --> 00:32:41.200
+<v Robert Schmitz>And I think there's our bar charts or whatever, but yeah, I'd I'd sell for any type of poll that would work basically and just have one user response only period.</v>
+
+00:32:42.610 --> 00:32:50.960
+<v Kenneth Courtney>Well, this supports it and and honestly looking at all the polls in there was just like such a delight, you know, and I'll just leave it at that.</v>
+
+00:32:50.970 --> 00:32:52.680
+<v Kenneth Courtney>But umm.</v>
+
+00:32:55.310 --> 00:33:00.300
+<v Kenneth Courtney>So just, just to recap, we're gonna perform dual data entry.</v>
+
+00:33:00.310 --> 00:33:10.520
+<v Kenneth Courtney>We're going to assume that the existing BJC qa.care-net.org site, which is currently upgraded and which we have identified that issue on week.</v>
+
+00:33:10.830 --> 00:33:12.460
+<v Kenneth Courtney>Will work.</v>
+
+00:33:12.470 --> 00:33:21.190
+<v Kenneth Courtney>To rectify that issue, we can also switch back the previous version and see if that's still evident there, and then do a comparison and see if we can fix it that way.</v>
+
+00:33:21.980 --> 00:33:22.380
+<v Robert Schmitz>Umm.</v>
+
+00:33:31.430 --> 00:33:32.140
+<v Robert Schmitz>Yep, OK.</v>
+
+00:33:22.270 --> 00:33:32.400
+<v Kenneth Courtney>Umm, but otherwise, when you upload an article to legacy, you also upload upload to the QA any images.</v>
+
+00:33:51.960 --> 00:33:53.940
+<v Robert Schmitz>Exact right, yes.</v>
+
+00:33:32.410 --> 00:33:59.660
+<v Kenneth Courtney>Just door and and perhaps it might be an extra 10 or 15 minutes, but you're also performing the valuable function of actually testing all of these capabilities to ensure that everything works correctly, which will then prevent any gotchas after it goes live, and it gives us ample time to ensure that we've eliminated as many as possible.</v>
+
+00:34:00.480 --> 00:34:01.310
+<v Robert Schmitz>Right, I agree.</v>
+
+00:34:03.580 --> 00:34:04.620
+<v Robert Schmitz>I'm currently, uh.</v>
+
+00:34:04.960 --> 00:34:05.610
+<v Robert Schmitz>Go ahead, Patty.</v>
+
+00:34:03.360 --> 00:34:07.040
+<v Patty Johnson>Quick question, no, you go ahead, you can finish.</v>
+
+00:34:07.890 --> 00:34:11.970
+<v Robert Schmitz>Umm I just got done doing this one for Pride Fest.</v>
+
+00:34:12.020 --> 00:34:12.580
+<v Robert Schmitz>Oh, come on.</v>
+
+00:34:15.490 --> 00:34:17.800
+<v Robert Schmitz>And that's one thing I'm gonna.</v>
+
+00:34:18.430 --> 00:34:19.070
+<v Robert Schmitz>OK. Come on.</v>
+
+00:34:21.160 --> 00:34:24.590
+<v Robert Schmitz>One thing I haven't done yet that I'm in the process of doing, I'm gonna do this.</v>
+
+00:34:24.650 --> 00:34:32.480
+<v Robert Schmitz>I'll do the Pride Fest post on the QA site, but this one will include a photo gallery, so that's gonna be doing to me, so hopefully I can.</v>
+
+00:34:33.510 --> 00:34:34.480
+<v Robert Schmitz>I can get that to work.</v>
+
+00:34:34.490 --> 00:34:35.550
+<v Robert Schmitz>If not, you'll be hearing from me.</v>
+
+00:34:34.920 --> 00:34:37.220
+<v Patty Johnson>Hello, good luck.</v>
+
+00:34:37.480 --> 00:34:38.180
+<v Kenneth Courtney>Awesome.</v>
+
+00:34:38.440 --> 00:34:38.910
+<v Kenneth Courtney>See.</v>
+
+00:34:38.920 --> 00:34:40.020
+<v Kenneth Courtney>So that's awesome.</v>
+
+00:34:40.260 --> 00:34:45.550
+<v Kenneth Courtney>Yeah, like using using all the capabilities to kind of increase user experiences.</v>
+
+00:34:46.490 --> 00:34:51.820
+<v Kenneth Courtney>You know, I mean, if I I I love .net nuke, I love the new site.</v>
+
+00:34:52.710 --> 00:34:53.320
+<v Kenneth Courtney>Uh.</v>
+
+00:34:53.490 --> 00:34:57.750
+<v Kenneth Courtney>And uh, yeah, if you can add the gallery module to that, that would be awesome.</v>
+
+00:34:58.990 --> 00:35:00.380
+<v Robert Schmitz>Yeah, I'll let you know.</v>
+
+00:35:04.160 --> 00:35:04.770
+<v Robert Schmitz>We're going to have.</v>
+
+00:35:04.100 --> 00:35:04.830
+<v Patty Johnson>So my question.</v>
+
+00:35:03.980 --> 00:35:05.660
+<v Kenneth Courtney>Well, we can figure it out together I.</v>
+
+00:35:07.890 --> 00:35:08.510
+<v Patty Johnson>I'm sorry.</v>
+
+00:35:08.560 --> 00:35:12.010
+<v Patty Johnson>I was just gonna say my question is, so we'll keep that banner up.</v>
+
+00:35:12.100 --> 00:35:14.710
+<v Patty Johnson>That says BJC, CNN is getting a technical upgrade this week.</v>
+
+00:35:14.720 --> 00:35:16.490
+<v Patty Johnson>We'll keep that up next week as well, correct?</v>
+
+00:35:21.430 --> 00:35:21.810
+<v Patty Johnson>Oh, OK.</v>
+
+00:35:18.390 --> 00:35:22.390
+<v Kenneth Courtney>What we've actually removed it from the production site already.</v>
+
+00:35:21.300 --> 00:35:22.500
+<v Robert Schmitz>Yes, not on the current one.</v>
+
+00:35:22.440 --> 00:35:29.870
+<v Kenneth Courtney>One of our our team members has and the new site it's hasn't been up.</v>
+
+00:35:29.880 --> 00:35:40.710
+<v Kenneth Courtney>I mean, so the QA site has not had that banner removed and honestly that might be good to have that there just to be able to tell the difference between the two at a glance.</v>
+
+00:35:41.340 --> 00:35:41.650
+<v Robert Schmitz>Right.</v>
+
+00:35:40.070 --> 00:35:41.770
+<v Patty Johnson>Umm OK.</v>
+
+00:35:42.030 --> 00:35:43.810
+<v Kenneth Courtney>But it's only in the home page right now.</v>
+
+00:35:45.950 --> 00:35:46.250
+<v Patty Johnson>OK.</v>
+
+00:35:57.080 --> 00:35:57.370
+<v Kenneth Courtney>Uh.</v>
+
+00:35:47.660 --> 00:35:57.480
+<v Patty Johnson>So are we going to continue to lose any comments that are made next week and on articles and such?</v>
+
+00:36:00.180 --> 00:36:02.310
+<v Robert Schmitz>While our our the comments attached to the stories.</v>
+
+00:36:03.980 --> 00:36:26.070
+<v Kenneth Courtney>The comments are are interrelated to the user and the story and yeah it it's not really practical initially to import those because there are numerous schema differences between the version on the left and the version of on the right, and so in order to accommodate those schema differences.</v>
+
+00:36:35.490 --> 00:36:35.870
+<v Patty Johnson>So.</v>
+
+00:36:28.790 --> 00:36:36.750
+<v Kenneth Courtney>Essentially, a custom import program would have to be written to do that, or SQL and it's not.</v>
+
+00:36:36.760 --> 00:36:38.940
+<v Kenneth Courtney>With, it's not without the realm of.</v>
+
+00:36:39.850 --> 00:37:05.450
+<v Kenneth Courtney>In other words, we we if that's like a non a a showstopper then we could look at if if those comments are very critical and we're only talking about the comments, it may be possible in relatively short order to write an import script to import just the comments with the assumption that it should be possible.</v>
+
+00:37:06.240 --> 00:37:07.310
+<v Patty Johnson>You know what I don't?</v>
+
+00:37:07.360 --> 00:37:10.150
+<v Patty Johnson>I don't know that it's like critical to do that.</v>
+
+00:37:10.160 --> 00:37:17.970
+<v Patty Johnson>I would just was thinking maybe we we keep the article in the banner and change the dates that comments through July 9th.</v>
+
+00:37:18.380 --> 00:37:23.130
+<v Patty Johnson>If that would be our next date, will not, you know, be saved or whatever?</v>
+
+00:37:23.380 --> 00:37:30.120
+<v Patty Johnson>I don't know that we have to have them transfer over, especially since we told if we before telling people that in the article to that makes sense.</v>
+
+00:37:32.490 --> 00:37:35.520
+<v Kenneth Courtney>Umm yes, but I I I'm.</v>
+
+00:37:35.590 --> 00:37:36.000
+<v Kenneth Courtney>I'm.</v>
+
+00:37:36.210 --> 00:37:49.650
+<v Kenneth Courtney>I'm not overcommitting by saying that an import script could be written, it just it does add like some risk like minor risk and but it it it's not.</v>
+
+00:37:50.090 --> 00:38:00.560
+<v Kenneth Courtney>It's not incredibly technically challenging, and we're only talking about comments and perhaps pull some middles and.</v>
+
+00:38:00.440 --> 00:38:00.730
+<v Patty Johnson>Mm-hmm.</v>
+
+00:38:03.430 --> 00:38:06.880
+<v Kenneth Courtney>It's within and like I said I I'm throwing it out there.</v>
+
+00:38:06.890 --> 00:38:08.260
+<v Kenneth Courtney>I'm not over committing.</v>
+
+00:38:09.130 --> 00:38:15.590
+<v Kenneth Courtney>It should be possible if if that were a stopper, to be able to import those comments.</v>
+
+00:38:18.230 --> 00:38:23.490
+<v Kenneth Courtney>I just have to look at the the data and then right a script for it.</v>
+
+00:38:24.870 --> 00:38:25.220
+<v Patty Johnson>Hmm.</v>
+
+00:38:26.710 --> 00:38:29.370
+<v Patty Johnson>Well, I mean, let us know, I didn't want you to have.</v>
+
+00:38:28.510 --> 00:38:30.700
+<v Kenneth Courtney>But don't put things into perspective.</v>
+
+00:38:31.210 --> 00:38:42.440
+<v Kenneth Courtney>I-1 time merged the website with the DNN store module on it with another site that had a different version of this store and then merged the two separate user databases.</v>
+
+00:38:42.450 --> 00:38:50.260
+<v Kenneth Courtney>One had about 30,000 users and the other one had about 20, something 1000 users and half of those existed in the other site.</v>
+
+00:38:50.350 --> 00:38:53.050
+<v Kenneth Courtney>And so it took those two sites.</v>
+
+00:38:53.060 --> 00:38:57.840
+<v Kenneth Courtney>One was a support site and one was the store site and merged the whole thing together.</v>
+
+00:38:57.850 --> 00:39:08.240
+<v Kenneth Courtney>So I mean it is this in comparison is relatively trivial and we we may be able to accommodate the comments if there are any.</v>
+
+00:39:09.020 --> 00:39:09.590
+<v Patty Johnson>OK.</v>
+
+00:39:10.020 --> 00:39:10.330
+<v Patty Johnson>Yeah.</v>
+
+00:39:17.800 --> 00:39:17.960
+<v Kenneth Courtney>Yeah.</v>
+
+00:39:10.340 --> 00:39:20.140
+<v Patty Johnson>I mean if that works, but again we could, we could leave a message that their comments and full responses may not, you know be saved or something like that, OK.</v>
+
+00:39:20.360 --> 00:39:20.960
+<v Kenneth Courtney>Definitely.</v>
+
+00:39:22.920 --> 00:39:23.660
+<v Patty Johnson>That makes sense.</v>
+
+00:39:25.870 --> 00:39:26.350
+<v Patty Johnson>Anything.</v>
+
+00:39:25.960 --> 00:39:27.370
+<v Robert Schmitz>Don't mind me, I'm just working away.</v>
+
+00:39:27.900 --> 00:39:28.390
+<v Patty Johnson>OK.</v>
+
+00:39:28.400 --> 00:39:29.660
+<v Patty Johnson>Anything else, or are we good?</v>
+
+00:39:31.340 --> 00:39:32.450
+<v Robert Schmitz>I think we're good for now.</v>
+
+00:39:32.460 --> 00:39:35.180
+<v Robert Schmitz>Yeah, let's hope for the best and take it from there.</v>
+
+00:39:35.630 --> 00:39:37.930
+<v Patty Johnson>Thank you so much, Ken, and thank you, Bob.</v>
+
+00:39:39.800 --> 00:39:40.220
+<v Robert Schmitz>Are y'all.</v>
+
+00:39:38.450 --> 00:39:56.490
+<v Kenneth Courtney>Alright, well, I'm gonna try to summarize everything that we just said and then I will send a brief update according to what we agreed on and and again, right now we're planning on pushing on the 9th and we'll go from there.</v>
+
+00:39:56.500 --> 00:39:57.220
+<v Kenneth Courtney>Thank you so much.</v>
+
+00:39:57.610 --> 00:39:58.120
+<v Patty Johnson>Sounds great.</v>
+
+00:39:57.970 --> 00:39:58.490
+<v Robert Schmitz>Sounds good.</v>
+
+00:39:58.130 --> 00:39:58.570
+<v Patty Johnson>Thank you.</v>
+
+00:39:59.700 --> 00:40:00.170
+<v Robert Schmitz>They all.</v>
+
+00:40:00.090 --> 00:40:01.320
+<v Kenneth Courtney>Alright, have a great weekend.</v>
+
+00:40:01.330 --> 00:40:01.670
+<v Kenneth Courtney>Happy for.</v>
+
+00:40:02.360 --> 00:40:02.910
+<v Robert Schmitz>Yeah, bye.</v>
+
+00:40:00.540 --> 00:40:04.410
+<v Patty Johnson>I anything same to you? Bye.</v>

@@ -1,0 +1,24 @@
+<mxfile>
+  <diagram>
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <!-- Define Cloud for Clients -->
+        <mxCell id="2" value="Clients" style="shape=cloud;..." parent="1"/>
+        <!-- Define Firewall -->
+        <mxCell id="3" value="Firewall" style="shape=rectangle;..." parent="1"/>
+        <!-- Define Server -->
+        <mxCell id="4" value="Server" style="shape=server;..." parent="1"/>
+        <!-- Define Internet Symbol -->
+        <mxCell id="5" value="" style="shape=ellipse;..." parent="1"/>
+        <!-- Connect Cloud to Internet -->
+        <mxCell id="6" style="edgeStyle=elbowEdgeStyle;..." source="2" target="5" parent="1"/>
+        <!-- Connect Internet to Firewall -->
+        <mxCell id="7" style="..." source="5" target="3" parent="1"/>
+        <!-- Connect Firewall to Server -->
+        <mxCell id="8" style="..." source="3" target="4" parent="1"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

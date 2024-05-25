@@ -1,0 +1,363 @@
+WEBVTT
+KK>We're just waiting, you know, wanting to see the progress, they're the status update on the thumbnails that were a little bit of a of a problem last night.
+KC>Ohh. KC>Well, we're gonna have it.
+KC>Least until July 9th, to be able to rectify that because of the change freeze the the first available time that we'll be able to umm.
+KC>Perform any change again would be July the 9th.
+KC>And along those lines, with regard to like the particular issue with these icons, we would like to if if, if at all possible during these roughly 9 days, if we can perform dual data entry.
+KC>In other words, if you submit an article on the authentic BJC net site that you would also submit the same article onto the BJC net QA site, and that will have a oops that will have a couple of effects.
+KC>The main one is is that it would give you an opportunity to identify any other issues that we have an initially surfaced and and and to be quite honest, I don't think it was fair to anybody to just say, OK, we're gonna pull this and then we're just going to implement it and 48 hours, right?
+KC>So I don't think that that was really a reasonable expectation.
+KC>Umm, but we do need.
+KC>So there there are two competing factors.
+KC>The first factor is is obviously the timeliness of the data and the previous version of the QA site was pulled at the beginning of March.
+KC>From my understanding, best understanding the issue is is that it does take a considerable amount of work to upgrade the site from the version that we look at right here to the version here.
+KC>So again that that initial upgrade process was like essentially like upgrading the site, finding and fixing errors and it's and it's a very heuristic process.
+KC>So essentially you upgrade the site and whatever is broken you fix it and separately like on this main module right here.
+KC>This is of commercially available module which has been upgraded like roughly monthly since the version that's installed on the existing site as an example.
+KC>So it it's it's profound that it's able to upgrade all the way through that through like roughly 10 years of development efforts which you get as far as the exact issue with the icon.
+KC>I I you know we we will do our best to try to identify why these in particular.
+KC>Because if you look, these are wider than these.
+KC>And so this could be like a template option or something plain and simple.
+KC>It's gonna take some investigation.
+KC>Uh to really figure out what's going on there.
+KC>Why these are this big and these are this big.
+KC>So that being said, my initial question and hope that you will agree on is it again like say when you post a new article on BJC net that you also come over and post the exact same thing on to BJC net QA, right.
+KC>And that way we're able to keep all of your changes in line, which is a great benefit.
+KC>And then the second great benefit is, is that if there are any issues, they'll be surfaced during the course of that data entry.
+KC>Are there any questions or comments about that?
+RS>No, I have been trying to post on both sites the current and the the QA site and I'm getting Allen.
+RS>Who's gonna be taking over for me when I retire?
+RS>I'm giving him some practice just strictly on the QA side since that'll be hopefully in place by the time I write.
+RS>By the time I retire, so yeah, I've been trying to do both sides of just to get practice on both or on the new one, obviously.
+KC>Right. KC>So the main.
+KK>So what are the power? KK>Excuse me.
+RS>Yeah.
+KK>Excuse me, Bob, when you go post to the QA site, what does that do with the thumbnails?
+KK>What size are the thumbnails because?
+RS>It makes it, it makes them square.
+RS>I'm look. RS>Well.
+KK>So even though we're seeing some, a little more rectangular and some square, everything new you've been posting, they show up as square and so are you there for readjusting this photo size for the thumbnail?
+RS>There's a one comment on that.
+RS>I know KENS is a little different from what I'm seeing.
+RS>I'm using Chrome and all the little thumbnails are square.
+RS>None of them are half of them aren't horizontal like the usual thumbnails are.
+RS>They're all square on mine.
+RS>You're right. PJ>That's.
+RS>So there. KK>We're here.
+RS>So. PJ>Yeah, that's.
+KK>Ken, do you do you wanna Bob to share a screen to so that you can see what he's seeing?
+RS>Yeah. RS>I just shared it.
+RS>Let me know when you see it.
+KK>It's visible. RS>Yeah.
+RS>See, here's the top ones and as I Scroll down, they're all square, whereas I know on KENS, I think here these ended up get going fullest the the right, the right width basically.
+RS>But on mine, it's all they're all squares regardless, and there's new new ones too.
+RS>I just posted uh Richard Note today and it's a.
+RS>Square, as you can see. KC>I will.
+KC>I will open a support incident with easy DNN solutions for this and hopefully they can provide us some direction on checks.
+RS>I still find it odd that before you guys were working on it yesterday, Alan and I were playing around, you know, loading things on here and for the longest time, they were the the correct width.
+RS>But then it seemed like as of yesterday, they all turned out to be squares.
+RS>So I don't know.
+RS>I don't know what the cause of that would be.
+KC>Like I said there, there's probably a template for it.
+KC>I just as far as this particular module goes, this is the only site where we use this particular rotator module from easy DNN solutions and so.
+KC>But I have.
+KC>I have uh on numerous occasions some supported other support request to them and for the most part I've gotten satisfactory responses.
+KC>And so that's really all I can do.
+KC>Uh, and and you know, obviously we can get down into it, but because it is a commercial module we we don't have the source, but these are like they have a very I wouldn't call it sophisticated.
+KC>They have a very comprehensive templating system, which is a borderline incomprehensible to me, but I'll I'll just leave it at that.
+KC>We have this as an item that we need to address prior to sign off, and we understand that and we will make it so umm, but the the main purpose that I would or the main direction that I was hoping to agree on today with everybody was to keep this version of the database.
+KC>This version of the site and the database and perform dual entry on both the the QA site which is the recent copy on Tuesday of this week along with the legacy site.
+KC>And then we keep them like manually synced as far as any articles or anything else.
+KC>And once we have.
+KC>Fixed a the square boxes and B any other new issues which may have arisen which we have not yet detected at that point.
+KC>We plan on the earliest available time, which is July the 9th.
+KC>Is that agreeable?
+KK>I guess my question remains if if Bob and Alan are entering.
+KK>You know, photos in the banner section of the new site.
+KK>Should they be? KC>Exactly.
+KC>Well, it's.
+KK>I mean, what is that gonna look like when we go back the other way?
+KK>I'm sorry, what?
+KC>Well, they're radically it should look exactly the same.
+KC>I mean, there are minor uh and and we are working to perfect and eliminate the minor differences, but there there is roughly 11 years of technology between the version on the right and the version on the left.
+KC>OK.
+KK>Yeah, we, we get that we get that.
+KC>And so and and.
+KK>I'm looking at the future because Bob and Alan are loading things.
+KK>And are they supposed to be loading square images?
+KC>No.
+KK>Because that affects how they size the photos.
+KC>OK.
+KC>So with regard to the images and the thumbnails that you see, my best guess and I and I'm not positive, but I'm pretty sure it essentially scale.
+KC>It scales that box with with CSS that says is this big in separately inside the image can either be cropped or scaled to display and it does.
+KC>And as far as your upload of the image, it very much helps to upload in the aspect ratio that you wish to display it in.
+KC>Because of that scale versus crowd, if you if you specify scale as the option, then if the image that is being scaled is not the same aspect ratio, it will look either scrunched down or extend it out and it it won't in for like small differences, it really won't be evident, but from your perspective keep on uploading the same exact aspect ratio that you have been right and then we will work to make that box conform to your expectations.
+KC>But the point I'm making is is that's all kind of programmed in and handled by the software, right?
+KC>It does either the scaling or the the other option that I said that I've just wiped the.
+KC>The point is, is that's that's a presentation option, but the main thing is when you upload your images by all means if at all possible, continue using your preferred aspect ratio.
+KC>Any questions about that?
+KC>I think I repeated myself once already.
+KK>I think what I'm not expressing very well kind of is that.
+KK>If what I and it's very difficult, we didn't this just happened out of the blue a day ago.
+KK>So if Bob and Ellen Reid.
+KK>Do the the ratio of what they're loading and then when we go live, it goes bonkers again.
+KK>They've wasted their time and we don't have what we want.
+KK>When this site that is currently QA goes live.
+KC>Well, uh, let me reiterate.
+KC>Continue uploading the images in the aspect ratio that you have been accustomed to, and I've talked to Bob on several occasions and I believe that he is using his standard aspect ratio for his images.
+KC>What I'm saying?
+KC>Is is that there is likely some CSS, or in other words, there's some technical switch that we can flip which will correct the presentation of these from being squares to being the aspect ratio below.
+KC>I'm saying that we will handle it.
+KC>What I'm I'm asking you to do is accept that we will research and look into this, but continue posting identically under the assumption that we will fix it.
+KC>OK. KK>OK.
+KC>That's all we're asking.
+KK>OK, understood.
+KK>And that's what you've been doing, Bob.
+KK>OK.
+RS>Uh, yeah, I I do wanna show you this, though, and I've showed Patty this before.
+RS>This with here is 720 by 380 which is the size far our banners.
+RS>These banners are 7720 pixels by 380.
+RS>The reason I had these these blue lines, specifically the left and right ones, are because when I got to show you the this guy here.
+RS>Umm, let me just open this up.
+RS>OK, if you notice, here's the banner that looks like.
+RS>And OK notice when I just notice the left and right side here.
+RS>OK, go back to home now.
+RS>And I can't find it where to go.
+RS>Geez. PJ>You'll find it.
+PJ>It's there.
+RS>Well, the reason I'm saying, OK, here's a good example on bridges note.
+RS>OK, notice the left and right side.
+RS>You're here's the right side.
+RS>Here's the left side.
+RS>See all that excess blue?
+RS>If you notice how in here the left side and the right side of the blue has been cropped off.
+RS>OK, this side here and this side here blinds up on my Photoshop file.
+RS>These guys here.
+RS>So whenever I do a banner, I could open up a banner.
+RS>Here I'll show you. RS>Ah.
+RS>We'll get to hear. RS>Hold on.
+RS>Hold that thought.
+RS>OK so here is my banner. RS>Come on.
+RS>OK. RS>I'm not compel.
+RS>Hold on. RS>Let me copy this.
+RS>And go back to my banner.
+RS>This is how I do my banners all the time, so I'll take a photo and I stick it in there.
+RS>Usually they're larger, doesn't matter, but I crap it down to the 720 by 380 sizes, which is this.
+RS>So now if you notice, watch a little girl here and the guy over here when I posted this.
+RS>You probably can't see, but see how it's been cropped off on you can't see the guy on the right side here.
+RS>You can't see the little girl on the left side, so for some reason I've always had to make sure that if I have something that I want to be able to show inside the thumbnail, it all that information is inside here.
+PJ>Inside the lines. KK>Yeah.
+RS>But inside this?
+RS>Yeah, that makes sense. KK>Yep.
+KC>I.
+RS>So it it's been that way for a long time.
+RS>So yeah, that's my little slideshow.
+RS>Yeah.
+KC>I think I think with something like this, like particularly with this, if if it's like a known quantity that you work within and you're happy with it or except it is a better word, then what?
+KC>What I am saying is that I agree with you that I completely understand exactly what you're depicting or talking about.
+KC>Namely, these are squares.
+KC>There is information that is being truncated which needs to be displayed for a very good reason.
+KC>The main thing that I wanna convey and hopefully with enough confidence that it instills confidence in you is, is that continue as normal and we accept that there is indeed an issue with the display of these icons and more than likely we will get to the bottom of it.
+KC>And when I say more, I'm like 99%, OK, so we will open a ticket with easy DNN solutions, but the main thing is our primary goal was to make this as seamless as possible for you.
+KC>So we do not want you to change anything that you're doing.
+KC>We want to make it work the way you expect it to, and right now this is definitely a head scratcher for me.
+KC>But uh, you know, with enough cycles applied to it, it will be thoroughly understood and resolved the main again overarching goal that I have is to preserve the work that we already have into this upgraded version and come to an agreement that we can perform dual data entry on the two systems until the legacy system is deactivated.
+KC>Umm.
+KC>And we will do everything in our power and ability to ensure that those icons conform to your expectations.
+RS>Sounds good. PJ>Yep.
+KK>Yeah.
+KK>When and and you expect you hope the goal is that that is completed by July 9th, and if it is not, then you will come back with a plan that will, you know, address this whole double posting thing that we thought you know was going to be a pretty short period of time, like 2 days.
+KC>Right.
+KK>Now it's turning into 10 days minus the weekend because we don't normally post over weekends, but I just wanna make sure that this does not get too far out of the box.
+KC>Well, right, obviously if it goes past that, then we'll have to look at other options.
+KC>But our main goal is is that there is a substantial amount of.
+KC>Effort involved with.
+KC>Upgrading the site and there are on occasions in Inter in iterations of this upgrade process where things don't work as smoothly as possible as others and there are there at that point you have to go back to a checkpoint if you have one and and then resume the process from there and and there are and and there are more sophisticated tools than the last time.
+KC>I personally tried to upgrade this site when I was working with Robert Bob on the issue related to the file chooser in the HTML editor, namely on the BJC scene.
+KC>That site, when you try to browse the files, it literally loads all 70,000 files in the file system every single time you click on one of those tree notes in the in that file chooser.
+KC>And so at that time, I have personally tried to upgrade the site numerous times and I mean I I probably spent at least 60 or 80 hours on this to be quite honest, it was substantial.
+KC>And in the interim, my new associate, Sandeep was able to work through those particular issues, which were as which just stopped me completely in my tracks at that time.
+KC>What I can say again is is our goal is to communicate and more importantly by performing the dual entry, hopefully surfacing any other potential issues that we can resolve prior to pushing the site live.
+KC>So it gives us a really good hands on test that we really need to perform.
+KC>And so this does give us an opportunity where we didn't have it before, which is mainly identifying any of these other kind of problems that may arise.
+KC>Well.
+KK>And one other thing, you know, obviously the opinion poll is different and please remind me were we told the pie chart is no longer available and what is in its place?
+KC>So what happens the way the pie chart works now on the new site and and So what?
+KC>Just essentially the the the opinion poll uses a core DNN survey module which had been pushed off to the community in a good way and the community continued developing the core survey module.
+KC>It underwent a significant change, including this, which was essentially an an enhancement of the module by the Community, and also note that the Community removed the pie chart control from the module.
+KC>So right now, if you're signed out of the site, so if you could like open a new site, Bob in a private window to the same and and yeah, in a private Incognito 3 dots.
+KC>And then just submit appointment.
+KC>Vigilant guard dogs.
+KC>Dot sign in don't sign in. RS>Ohh.
+KC>Cancel, cancel, cancel. KC>Yeah.
+RS>Umm.
+KC>Just go back to the home page right and submit a poll.
+KC>Going to the poll, going to festivals, seeing Illenium in concert, that sort of thing.
+KC>Who's your favorite EDM artist? Ohh.
+KC>OK, so now you submitted the poll and instead of displaying, you've already submitted the surveyor something.
+KC>Sorry. KC>Yeah, I can't stop.
+RS>So there.
+KK>I think you just had to go unmute for some background noise.
+RS>So yeah, his dog, I think. KK>Yeah.
+KK>So I guess my. KC>I have three dogs.
+RS>We're done. PJ>Yeah.
+KC>Ohh so I have I have a imperial Shih Tzu.
+KC>A Beagle basset terrier.
+KC>And it doesn't matter.
+KC>And British Staffordshire terrier.
+KC>But So what happens now?
+KC>The new behavior is essentially, if you're an anonymous user or you're a user who only has permission to submit surveys.
+KC>Once you've submitted that survey, it will display the Pi control and then when you click on view results it takes you to that extended view page and when you click on View Pass poll results.
+KC>So it effectively works the same, but it gives you a little.
+KC>It gives you this added functionality and I and honestly stripping that out would have like kind of changed the whole flow path internally and and you know this is honestly the first feedback and and for and only because of the lack of talking about it sooner.
+KC>But the main thing is is that for all intents and purposes, the module works the same as it did, but now it it, but it also has an enhancement where it prevents multiple posts from the same person in the same browser, so they could open a new private window.
+KK>So but if you. Yeah. KK>OK.
+KK>I'm sorry they could open a new private window. What?
+KC>Somebody could have effectively submit multiple results by opening a new private window, but that's the only way.
+RS>Which is probably why we're getting this all the time.
+KK>Where it's all perfectly the same.
+RS>If you notice some bozos been stuffing the ballot box, we we've been getting that last couple months now for somebody who's a big. Ohh yeah.
+RS>Yeah, somebody wants to make it perfect pie chart.
+RS>This has been happening too frequently.
+RS>All of a sudden, so some **** *** out there is sorry my.
+KK>So if you haven't completed the poll, all you see are the questions, and then once you vote and submit the poll, then you can view the pie chart.
+KC>Right. KC>And and so this.
+KK>That's what it looked like before you OK?
+KC>Now that functionality did not exist previously.
+KC>Currently somebody can resubmit poll result after poll result on that I think and that is how that was happening.
+KC>I'm I'm not positive about that, but I'm pretty sure that this is new behavior.
+KC>Once they, once the cookie is set, this reads the cookie and if the cookies there then it puts in the pie chart otherwise it puts in the other thing.
+KC>But for all intents and purposes, it does work the same, but it does have the extra page which I felt was risky to try to pull that out, but we have, for all intents and purposes, matched the display of the original survey module.
+KK>Great and and added the took away the ability to stuff the box, so thank you.
+PJ>Yeah.
+KC>Potentially now there are other ways to make that a lot more solid, but I don't just with other.
+KC>They're used to be integrated Active Directory authentication with this site, and it no longer exists and it has an existed for at least three or three years.
+KC>It would technically be possible to incorporate single sign on into this site and I'm just floating that, but it is a capability of .net nuke and it is used on COVID-19 and also on positioningforthefuture.bjc.org.
+KC>Dot bjc.org so it is within our capability to integrate single sign on, but I'm surmising that there was probably some issue with it at that .3 years ago where they decided to.
+KC>Exclude that from the features of the site.
+RS>How would that look as far as difference in regards to, you would have to sign on.
+RS>Whoops, where to go? RS>Here it is.
+KC>Just go to COVID-19.
+KC>Bjc.org, that's what it would look like.
+RS>COVID-19. KC>Yeah.
+RS>OK.
+KC>Sort of like that, but you just click on the login button.
+RS>OK. RS>Yeah.
+KC>And this takes you to your your multifactor authentication.
+RS>Well, that might be a way to go.
+RS>Well, with that, still with their eliminated multiple logins.
+KC>It works it, but that would that would make every single user not anonymous though and among other things that would give you a significantly more metrics to like learn about your users and learn about everything but it and and perhaps I'm just floating that that the all users were previously authenticated using that active direct well using an integration with Active Directory and I don't know exactly which one but I do know that if that were ever a desire that would be something that could be facilitated.
+RS>And from what I'm understanding, once somebody logs into that thing and puts their their whole answer in, they cannot do it again.
+RS>Or can they just go back and just keep A3 uh, logging in?
+KC>Uh, once that were enabled, it would not and and you had configured this accordingly.
+KC>In other words, in order to submit a poll result, you have to be logged in, and so one of the there would be a way to enable continued anonymous access.
+RS>Yeah.
+KC>So that is something food for thought.
+RS>Yeah, well, we'll see how this one goes.
+RS>I'm sure.
+RS>Whoever whatever clown this is, who's doing this?
+RS>If he starts doing it again or she maybe we'll we'll go down that Ave and come up with the login process.
+KC>And and one thing that I will just have to agree with you that this is incredibly perplexing and because now we do have control over the module and.
+KC>We could theoretically add and I have to investigate if there's anything that I can get from the user session that would enable us to be able to determine one from the other, and if we can then we could get some logging metrics.
+KC>Because, yeah, this is particularly pernicious and as far as I'm concerned, it's just it's just wrong on every level.
+RS>Yeah, it'd be nice if.
+KC>So you know.
+RS>Uh, it'd be nice if you can log in.
+RS>This would be a perfect world for me.
+RS>You wanna do your poll so you log in and you put in your credentials, you get the little question and the answers you select your answer, you hit submit and from then on for that single pole there there's no other times you can get on there and vote.
+RS>That would be the the dream of mine.
+KC>Well, there is a way to make it happen, but again, I'm not within this particular change, but you know it's it's things that we have done for other sites within the ecosystem.
+RS>Yeah.
+RS>And I'm not limited to a pie chart.
+RS>I mean it could be any type of chart.
+RS>You know, I I get on MSN a lot and they have charts all the time and poles.
+KC>Right, like.
+RS>And I think there's our bar charts or whatever, but yeah, I'd I'd sell for any type of poll that would work basically and just have one user response only period.
+KC>Well, this supports it and and honestly looking at all the polls in there was just like such a delight, you know, and I'll just leave it at that.
+KC>But umm.
+KC>So just, just to recap, we're gonna perform dual data entry.
+KC>We're going to assume that the existing BJC qa.care-net.org site, which is currently upgraded and which we have identified that issue on week.
+KC>Will work.
+KC>To rectify that issue, we can also switch back the previous version and see if that's still evident there, and then do a comparison and see if we can fix it that way.
+RS>Umm. RS>Yep, OK.
+KC>Umm, but otherwise, when you upload an article to legacy, you also upload upload to the QA any images.
+RS>Exact right, yes.
+KC>Just door and and perhaps it might be an extra 10 or 15 minutes, but you're also performing the valuable function of actually testing all of these capabilities to ensure that everything works correctly, which will then prevent any gotchas after it goes live, and it gives us ample time to ensure that we've eliminated as many as possible.
+RS>Right, I agree. RS>I'm currently, uh.
+RS>Go ahead, Patty.
+PJ>Quick question, no, you go ahead, you can finish.
+RS>Umm I just got done doing this one for Pride Fest.
+RS>Oh, come on.
+RS>And that's one thing I'm gonna.
+RS>OK. Come on.
+RS>One thing I haven't done yet that I'm in the process of doing, I'm gonna do this.
+RS>I'll do the Pride Fest post on the QA site, but this one will include a photo gallery, so that's gonna be doing to me, so hopefully I can.
+RS>I can get that to work.
+RS>If not, you'll be hearing from me.
+PJ>Hello, good luck. KC>Awesome.
+KC>See. KC>So that's awesome.
+KC>Yeah, like using using all the capabilities to kind of increase user experiences.
+KC>You know, I mean, if I I I love .net nuke, I love the new site.
+KC>Uh.
+KC>And uh, yeah, if you can add the gallery module to that, that would be awesome.
+RS>Yeah, I'll let you know.
+RS>We're going to have. PJ>So my question.
+KC>Well, we can figure it out together I.
+PJ>I'm sorry.
+PJ>I was just gonna say my question is, so we'll keep that banner up.
+PJ>That says BJC, CNN is getting a technical upgrade this week.
+PJ>We'll keep that up next week as well, correct?
+PJ>Oh, OK.
+KC>What we've actually removed it from the production site already.
+RS>Yes, not on the current one.
+KC>One of our our team members has and the new site it's hasn't been up.
+KC>I mean, so the QA site has not had that banner removed and honestly that might be good to have that there just to be able to tell the difference between the two at a glance.
+RS>Right. PJ>Umm OK.
+KC>But it's only in the home page right now.
+PJ>OK. KC>Uh.
+PJ>So are we going to continue to lose any comments that are made next week and on articles and such?
+RS>While our our the comments attached to the stories.
+KC>The comments are are interrelated to the user and the story and yeah it it's not really practical initially to import those because there are numerous schema differences between the version on the left and the version of on the right, and so in order to accommodate those schema differences.
+PJ>So.
+KC>Essentially, a custom import program would have to be written to do that, or SQL and it's not.
+KC>With, it's not without the realm of.
+KC>In other words, we we if that's like a non a a showstopper then we could look at if if those comments are very critical and we're only talking about the comments, it may be possible in relatively short order to write an import script to import just the comments with the assumption that it should be possible.
+PJ>You know what I don't?
+PJ>I don't know that it's like critical to do that.
+PJ>I would just was thinking maybe we we keep the article in the banner and change the dates that comments through July 9th.
+PJ>If that would be our next date, will not, you know, be saved or whatever?
+PJ>I don't know that we have to have them transfer over, especially since we told if we before telling people that in the article to that makes sense.
+KC>Umm yes, but I I I'm. KC>I'm.
+KC>I'm not overcommitting by saying that an import script could be written, it just it does add like some risk like minor risk and but it it it's not.
+KC>It's not incredibly technically challenging, and we're only talking about comments and perhaps pull some middles and.
+PJ>Mm-hmm.
+KC>It's within and like I said I I'm throwing it out there.
+KC>I'm not over committing.
+KC>It should be possible if if that were a stopper, to be able to import those comments.
+KC>I just have to look at the the data and then right a script for it.
+PJ>Hmm.
+PJ>Well, I mean, let us know, I didn't want you to have.
+KC>But don't put things into perspective.
+KC>I-1 time merged the website with the DNN store module on it with another site that had a different version of this store and then merged the two separate user databases.
+KC>One had about 30,000 users and the other one had about 20, something 1000 users and half of those existed in the other site.
+KC>And so it took those two sites.
+KC>One was a support site and one was the store site and merged the whole thing together.
+KC>So I mean it is this in comparison is relatively trivial and we we may be able to accommodate the comments if there are any.
+PJ>OK. PJ>Yeah.
+KC>Yeah.
+PJ>I mean if that works, but again we could, we could leave a message that their comments and full responses may not, you know be saved or something like that, OK.
+KC>Definitely. PJ>That makes sense.
+PJ>Anything.
+RS>Don't mind me, I'm just working away.
+PJ>OK. PJ>Anything else, or are we good?
+RS>I think we're good for now.
+RS>Yeah, let's hope for the best and take it from there.
+PJ>Thank you so much, Ken, and thank you, Bob.
+RS>Are y'all.
+KC>Alright, well, I'm gonna try to summarize everything that we just said and then I will send a brief update according to what we agreed on and and again, right now we're planning on pushing on the 9th and we'll go from there.
+KC>Thank you so much. PJ>Sounds great.
+RS>Sounds good. PJ>Thank you.
+RS>They all.
+KC>Alright, have a great weekend.
+KC>Happy for. RS>Yeah, bye.
+PJ>I anything same to you? Bye.

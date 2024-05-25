@@ -1,0 +1,213 @@
+<html>
+
+<head>
+    <title> Lung Transplant Form </title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <style>
+        /* Style for unselected tabs */
+        .nav-tabs>li:not(.active)>a {
+            border: 1px solid #ccc;
+            border-bottom-color: transparent;
+        }
+
+        /* Style for selected tab */
+        .nav-tabs>.active>a {
+            border: 1px solid #ccc;
+            border-top-color: transparent;
+        }
+
+        /* Style for tab content */
+        .tab-pane {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: -1px;
+            min-height: auto;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+
+        /* Style for progress bar */
+        .progress {
+            margin-bottom: 0;
+        }
+
+        .my-progress-bar {
+            background-color: #428bca;
+        }
+
+        /* Style for buttons */
+        .btn-nav {
+            margin-top: 20px;
+        }
+    </style>
+    </p>
+    <p>
+        <script>
+            $(document).ready(function () {
+                var $tabs = $('#myTab');
+                var $prevBtn = $('#prev-btn');
+                var $nextBtn = $('#next-btn');
+                var $submitButton = $('#submit-btn');
+                var $progressBar = $('#form-progress-bar'); // Renamed progress bar // Disable previous button on first tab
+                if ($tabs.find('.active').index() == 0) {
+                    $prevBtn.prop('disabled', true);
+                } // Handle tab click
+                $tabs.find('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+                    var $activeTab = $(e.target);
+                    var $prevTab = $activeTab.closest('li').prev();
+                    var $nextTab = $activeTab.closest('li').next(); // Update progress bar
+                    var percent = ($activeTab.parent().index() + 1) / $tabs.children().length * 100;
+                    $progressBar.css('width', percent + '%'); // Update button state
+                    if ($prevTab.length == 0) {
+                        $prevBtn.prop('disabled', true);
+                    } else {
+                        $prevBtn.prop('disabled', false);
+                    } if ($nextTab.length == 0) {
+                        $nextBtn.hide();
+                        $submitButton.show();
+                    } else {
+                        $nextBtn.show();
+                        $submitButton.hide();
+                        $nextBtn.prop('disabled', false);
+                    } // Highlight the active tab
+                    $tabs.find('a[data-toggle="tab"]').css('background-color', '');
+                    $activeTab.css('background-color', '#f5f5f5');
+                }); // Handle next button
+                $nextBtn.on('click', function () {
+                    var $activeTab = $tabs.find('.active'); // Enable previous button
+                    $prevBtn.prop('disabled', false); // Show next tab
+                    $activeTab.next().find('a').tab('show'); // Disable next button on last tab and enable submit button
+                    if ($activeTab.next().length == 0) {
+                        $nextBtn.prop('disabled', true);
+                        $submitButton.prop('disabled', false);
+                        $submitButton.show();
+                        $nextBtn.hide();
+                    } // Update progress bar
+                    var percent = ($activeTab.index() + 2) / $tabs.children().length * 100;
+                    $progressBar.css('width', percent + '%');
+                }); // Handle previous button
+                $prevBtn.on('click', function () {
+                    var $activeTab = $tabs.find('.active'); // Enable next button
+
+                    $nextBtn.prop('disabled', false);
+                    $submitButton.prop('disabled', true); // Show previous tab
+                    $activeTab.prev().find('a').tab('show'); // Disable previous button on first tab and hide submit button
+                    if ($activeTab.prev().length == 0) {
+                        $prevBtn.prop('disabled', true);
+                        $submitButton.hide();
+                        $nextBtn.show();
+                    } // Update progress bar
+                    var percent = ($activeTab.index()) / $tabs.children().length * 100;
+                    $progressBar.css('width', percent + '%');
+                }); setInitialTabState();
+            }); function setInitialTabState() {
+                var $tabs = $('#myTab');
+                var $prevBtn = $('#prev-btn');
+                var $nextBtn = $('#next-btn');
+                var $submitButton = $('#submit-btn');   // Set the first tab as active
+                $tabs.find('a[data-toggle="tab"]').first().tab('show');   // Disable previous button on first tab
+                $prevBtn.prop('disabled', true);   // Show next button and hide submit button
+                $nextBtn.show();
+                $submitButton.hide();   // Update progress bar
+                var percent = ($tabs.find('.active').index() + 1) / $tabs.children().length * 100;
+                $('#form-progress-bar').css('width', percent + '%');
+            } </script>
+    </p>
+    <div class="tab-content">
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item active"><a class="nav-link" href="#patient-info" data-toggle="tab" role="tab"
+                    aria-expanded="true">Patient Information</a></li>
+            <li class="nav-item"><a class="nav-link" href="#insurance-info" data-toggle="tab" role="tab"
+                    aria-expanded="true">Insurance Information</a></li>
+            <li class="nav-item"><a class="nav-link" href="#referring-physician" data-toggle="tab" role="tab"
+                    aria-expanded="true">Referring Physician Information</a></li>
+            <li class="nav-item"><a class="nav-link" href="#pcp-info" data-toggle="tab" role="tab"
+                    aria-expanded="true">Primary Care Physician Information</a></li>
+            <li class="nav-item"><a class="nav-link" href="#requested-records-1" data-toggle="tab" role="tab"
+                    aria-expanded="true">Requested Records - Part 1</a></li>
+            <li class="nav-item"><a class="nav-link" href="#requested-records-2" data-toggle="tab" role="tab"
+                    aria-expanded="true">Requested Records - Part 2</a></li>
+        </ul><!-- Tab panels -->
+        <div class="tab-pane active" id="patient-info">
+            [Fields:PatientInformation] [Fields:FirstName] [Fields:LastName]
+            [Fields:DateofBirth] [Fields:Month] [Fields:Day] [Fields:Year]
+            [Fields:Address] [Fields:City] [Fields:State]
+            [Fields:ZIPcode] [Fields:HomePhone] [Fields:CellAlternatePhone]
+            [Fields:PatientHeight] [Fields:PatientWeightlbs] [Fields:Diagnosises]
+            [Fields:QuestionsComments] [Fields:DialysisUnitInformation]
+            [Fields:UnitName] [Fields:Location] [Fields:UnitPhone] [Fields:UnitFaxNumber]
+            [Fields:Smokingcessationdateifapplicable] </div>
+        <div class="tab-pane" id="insurance-info">
+            [Fields:InsuranceInformation] [Fields:PrimaryInsurance]
+            [Fields:PrimaryInsuranceName] [Fields:InsurancePhoneNumber]
+            [Fields:Policy] [Fields:Group] [Fields:SecondaryInsurance]
+            [Fields:SecondaryInsuranceName] [Fields:SecondaryPhoneNumber]
+            [Fields:SecondaryPolicy] [Fields:SecondaryGroup]</div>
+        <div class="tab-pane" id="referring-physician">
+            [Fields:ReferringPhysicianInformation] [Fields:ReferringFirstName]
+            [Fields:ReferringLastName] [Fields:ReferringAddress]
+            [Fields:ReferringCity] [Fields:ReferringState]
+            [Fields:ReferringZIPcode] [Fields:ReferringOfficePhoneNumber]
+            [Fields:ReferringFaxNumber]</div>
+        <div class="tab-pane" id="pcp-info">
+            [Fields:PrimaryCarePhysician] [Fields:PrimaryFirstName]
+            [Fields:PrimaryLastName}
+            [Fields:InsuranceInformation] [Fields:PrimaryInsurance]
+            [Fields:PrimaryInsuranceName] [Fields:InsurancePhoneNumber]
+            [Fields:Policy] [Fields:Group] [Fields:SecondaryInsurance]
+            [Fields:SecondaryInsuranceName] [Fields:SecondaryPhoneNumber]
+            [Fields:SecondaryPolicy] [Fields:SecondaryGroup]</div>
+        <div class="tab-pane" id="referring-physician">
+            [Fields:ReferringPhysicianInformation] [Fields:ReferringFirstName]
+            [Fields:ReferringLastName] [Fields:ReferringAddress]
+            [Fields:ReferringCity] [Fields:ReferringState]
+            [Fields:ReferringZIPcode] [Fields:ReferringOfficePhoneNumber]
+            [Fields:ReferringFaxNumber]</div>
+        <div class="tab-pane" id="pcp-info">
+            [Fields:PrimaryCarePhysician] [Fields:PrimaryFirstName]
+            [Fields:PrimaryLastName] [Fields:PrimaryAddress] [Fields:PrimaryCity]
+            [Fields:PrimaryState] [Fields:PrimaryZIPcode] [Fields:PrimaryOfficePhoneNumber]
+            [Fields:PrimaryFaxNumber]</div>
+        <div class="tab-pane" id="requested-records-1">
+            [Fields:RequestedRecords] [Fields:Upload1] [Fields:Upload2]
+            [Fields:Upload3] [Fields:Upload4] [Fields:Upload5]</div>
+        <div class="tab-pane" id="requested-records-2">
+            [Fields:RequestedRecordsPart2]
+            [Fields:Upload6] [Fields:Upload7] [Fields:Upload8]
+            [Fields:Upload9] [Fields:Upload10]</div>
+    </div><!-- Progress indicator and next/previous buttons -->
+    <div class="row">
+        <div class="col-md-8">
+            <div class="progress">
+                <div class="progress-bar my-progress-bar" role="progressbar" style="width: 0%;" aria-valuenow="0"
+                    aria-valuemin="0" aria-valuemax="100" id="form-progress-bar"></div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row">
+                <div class="col-md-6"><button type="button" class="btn btn-secondary btn-block" id="prev-btn"
+                        disabled="">
+                        Previous</button></div>
+                <div class="col-md-6"><button type="button" class="btn btn-primary btn-block" id="next-btn">
+                        Next</button></div>
+            </div>
+        </div>
+    </div><!-- Captcha and submit/cancel buttons -->
+    <div class="row">
+        <div class="col-md-12">
+            [Fields:CAPTCHA]<div class="alert alert-info" id="wait-message" style="display: none;">
+                Please wait a few moments while we process your request...</div>
+            [Fields:Pleasewaitafewmoments]
+            [Fields:Submit]
+            [Fields:Cancel]</div>
+    </div>
+
+</body>
+
+</html>
