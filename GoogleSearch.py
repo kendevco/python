@@ -1,8 +1,11 @@
 import csv 
 from googleapiclient.discovery import build 
 
-api_key = 'AIzaSyB0rv0QDGWy7Gno284IybZVNB9BDJzSEPs' 
-search_engine_id = '16331af4b4dc043f5'
+API_URL_LOCATIONS = os.getenv('DYNATRACE_API_URL_LOCATIONS')
+API_KEY = os.getenv('DYNATRACE_API_KEY') 
+
+api_key = os.getenv('GOOGLE_API_KEY') 
+search_engine_id = os.getenv('GOOGLE_SEARCH_ENGINE_ID') 
 
 service = build("customsearch", "v1", developerKey=api_key)
 
