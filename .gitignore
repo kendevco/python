@@ -4,7 +4,8 @@ temp/
 input/
 Output/
 Screenshots/
-
+.aider.ident.cache.v1/
+.aider.tags.cache.v2/
 node_modules/
 
 # Byte-compiled / optimized / DLL files
